@@ -1,8 +1,6 @@
 # ANOTOKINO
 ## 概要
-### 
-# Move on Hackathon
-
+- Move on Hackathonで作成した思い出を保管できるアプリ
 ## テーマ
 ### オンラインとオフラインの差を埋めよ差を埋めよ
 
