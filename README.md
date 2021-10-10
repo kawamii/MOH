@@ -28,6 +28,9 @@
 - あの時を思い出すボタン: 思い出一覧画面へ遷移
 - ANOTOKINOとはボタン: 説明ポップアップ画面へ遷移
 
+![Simulator Screen Shot - iPhone 11 - 2021-10-10 at 16 54 34](https://user-images.githubusercontent.com/75970153/136688468-5f62d690-f897-47b2-9d57-a1a64c69cb62.png)
+
+
 ### 思い出入力画面
 - 保管するボタン: 入力した思い出を保存
 
